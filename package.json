@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev:server" : "nodemon index.js",
+    "dev:server" : "nodemon -L index.js",
     "getFiles" : "npm install"
   },
   "author": "Aditya Reddy",
